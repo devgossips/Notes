@@ -6,7 +6,6 @@ An elegant notes taking app written in Flutter that uses sqflite for storage.
 
  [![Notes-App](https://img.shields.io/badge/NotesApp🌈-APK-black.svg?style=for-the-badge&logo=android)](https://github.com/devgossips/Notes/releases/download/v1.0/app-release.apk)
 
-[![Open Source Love](https://img.shields.io/badge/opensourceinitiative.svg?style=for-the-badge&logo=opensourceinitiative)](https://github.com/devgossips/Notes)
 
 
 
